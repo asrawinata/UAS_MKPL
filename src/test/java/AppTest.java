@@ -25,7 +25,7 @@ public class AppTest
         try {
             new App();
         } catch (Exception e) {
-            fail("C failed.");
+            fail("Failed");
         }
     }
 
