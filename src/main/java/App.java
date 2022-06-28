@@ -7,7 +7,12 @@ public class App
 {
 
     private final String message = "Hello World!";
-
+    System.out.println("Current count:" + counter.getCount());
+    System.out.println("Current count:" + counter.getCount());
+    System.out.println("Current count:" + counter.getCount());
+    System.out.println("Current count:" + counter.getCount());
+    System.out.println("Current count:" + counter.getCount());
+    System.out.println("Current count:" + counter.getCount());
     public App() {}
 
     public static void main(String[] args) {
