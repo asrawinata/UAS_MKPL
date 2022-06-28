@@ -13,6 +13,10 @@ public class App
     System.out.println("Current count:" + counter.getCount());
     System.out.println("Current count:" + counter.getCount());
     System.out.println("Current count:" + counter.getCount());
+    System.out.println("Current count:" + counter.getCount());
+    System.out.println("Current count:" + counter.getCount());
+    System.out.println("Current count:" + counter.getCount());
+    System.out.println("Current count:" + counter.getCount());
     public App() {}
 
     public static void main(String[] args) {
